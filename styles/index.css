@@ -1,0 +1,43 @@
+header{
+display: flex;
+max-width: 100%;
+margin: 30px;
+justify-content: space-between;
+
+
+}
+
+.logo {
+    position: relative;
+    margin: 30px;
+}
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+    position: relative;
+    justify-content: flex-end;
+    margin-left: 200px;
+ 
+
+}
+
+.nav-list {
+    font-family: 'Poppins';
+    display: flex;
+    width: 400px;
+    justify-content: space-evenly;
+    align-content: flex-end;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+.buttons {
+    position: relative;
+    display: flex;
+    align-self: center;
+    
+}
